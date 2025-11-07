@@ -116,3 +116,5 @@ export function CelebrityCard({ celebrity, rateCards, onBookNow }: CelebrityCard
     </div>
   );
 }
+
+// some ui enhancements has also been made on this page
