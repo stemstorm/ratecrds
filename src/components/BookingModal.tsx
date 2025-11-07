@@ -238,3 +238,5 @@ export function BookingModal({ celebrity, rateCards, selectedRateCard, onClose }
     </div>
   );
 }
+
+// some ui enhncements has been made on this page
